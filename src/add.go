@@ -1,4 +1,4 @@
-package arithmetic
+package add
 
 func Add (x float64, y float64) float64 {
 	return x + y;
